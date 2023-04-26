@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'NotoSansKR-Bold';
+    src: url('/fonts/NotoSansKR-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NotoSansKR-Medium';
+    src: url('/fonts/NotoSansKR-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NotoSansKR-Regular';
+    src: url('/fonts/NotoSansKR-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background: #ddd;
+    padding: 10rem;
+    font-family: 'NotoSansKR-Regular';
+}
+.medium {
+    font-family: 'NotoSansKR-Medium';
+}
+.bold {
+    font-family: 'NotoSansKR-Bold';
+}
