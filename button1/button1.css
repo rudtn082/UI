@@ -39,6 +39,8 @@
     font-size: 22px;
     transition: width 0.5s ease-in-out;
 }
-.buttonBox .button:hover .icons {
-    width: 40px;
+@media screen and (min-width: 320px) {
+    .buttonBox .button:hover .icons {
+        width: 40px;
+    }
 }
