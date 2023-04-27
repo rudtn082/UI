@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px;
-    background-color: #ff6e6e;
+    background-color: #fc8989;
     border-radius: 35px;
     border: 0px;
     font-size: 25px;
@@ -14,7 +14,7 @@
     transition: all .5s;
 }
 .like:hover {
-    background-color: #e24c4c;
+    background-color: #ff6e6e;
 }
 .like:hover .before {
     opacity: 0;
