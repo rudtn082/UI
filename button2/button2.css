@@ -9,7 +9,7 @@
     border: 0px;
     font-size: 25px;
     margin: 0 auto;
-    color: #e8e8e8;
+    color: #fff;
     cursor: pointer;
     transition: all .5s;
 }
@@ -22,7 +22,7 @@
 .like .after {
     position: absolute;
     opacity: 0;
-    color: #e8e8e8;
+    color: #fff;
 }
 .like:hover .after {
     opacity: 1;
