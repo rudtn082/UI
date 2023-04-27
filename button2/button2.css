@@ -1,0 +1,51 @@
+.like {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #ff6e6e;
+    border-radius: 35px;
+    border: 0px;
+    font-size: 25px;
+    margin: 0 auto;
+    color: #e8e8e8;
+    cursor: pointer;
+    transition: all .5s;
+}
+.like:hover {
+    background-color: #e24c4c;
+}
+.like:hover .before {
+    opacity: 0;
+}
+.like .after {
+    position: absolute;
+    opacity: 0;
+    color: #e8e8e8;
+}
+.like:hover .after {
+    opacity: 1;
+    animation: beat 1s infinite;
+}
+@keyframes beat {
+    0% {
+        transform: scale(1);
+    }
+
+    15% {
+        transform: scale(1.15);
+    }
+
+    30% {
+        transform: scale(1);
+    }
+
+    45% {
+        transform: scale(1.15);
+    }
+
+    60% {
+        transform: scale(1);
+    }
+}
