@@ -1,0 +1,55 @@
+.notification {
+    display: inline-flex;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 10px;
+    justify-content: space-between;
+    color: #212121;
+    gap: 15px;
+    box-shadow: 0px 10px 20px 13px rgba(0,0,0,0.1);
+    animation: scale .5s linear alternate-reverse infinite;
+}
+@keyframes scale {
+    from {
+        transform: scale(0.98);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
+.notification .icon {
+    font-size: 40px;
+    line-height: 65px;
+    color: #303f9f;
+}
+.notification .messages {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.notification .messages .title {
+    font-size: 16px;
+    font-family: 'NotoSansKR-Medium';
+    text-transform: uppercase;
+    color: #494949;
+}
+.notification .messages .sub {
+    font-size: 13px;
+}
+.notification .button {
+    width: 65px;
+    height: 65px;
+    line-height: 65px;
+    font-size: 15px;
+    text-align: center;
+    background-color: #303f9f;
+    color: #ffffff;
+    text-transform: uppercase;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.notification .button:hover {
+    background-color: #1a237e;
+    font-family: 'NotoSansKR-Medium';
+}
