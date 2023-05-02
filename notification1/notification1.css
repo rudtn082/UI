@@ -39,9 +39,8 @@
     font-size: 13px;
 }
 .notification .button {
-    width: 65px;
-    height: 65px;
     line-height: 65px;
+    padding: 0px 15px;
     font-size: 15px;
     text-align: center;
     background-color: #303f9f;
