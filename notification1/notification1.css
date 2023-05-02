@@ -53,3 +53,8 @@
     background-color: #1a237e;
     font-family: 'NotoSansKR-Medium';
 }
+@media all and (max-width: 350px) {
+    .notification .messages .sub {
+        display: none;
+    }
+}
