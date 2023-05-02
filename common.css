@@ -22,6 +22,7 @@ body {
     padding: 30px;
     overflow: hidden;
     font-family: 'NotoSansKR-Regular';
+    text-align: center;
 }
 .medium {
     font-family: 'NotoSansKR-Medium';
