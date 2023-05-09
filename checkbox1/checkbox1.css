@@ -1,5 +1,6 @@
 .cbxBox {
     position: relative;
+    left: 50%;
 }
 .cbxBox .cbx {
     position: relative;
@@ -15,7 +16,7 @@
     content: '';
     position: absolute;
     top: 2px;
-    left: 10px;
+    left: 9px;
     width: 5px;
     height: 14px;
     opacity: 0;
