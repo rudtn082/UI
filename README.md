@@ -18,3 +18,10 @@
 | No.  |  NAME                                                         |  VIEW                                                         |  BLOG                                                      |
 |:----:|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------------:|
 |  1   |  [SWITCH1](https://github.com/rudtn082/UI/tree/main/switch1)  |  [VIEW](https://rudtn082.github.io/UI/switch1/switch1.html)   | [BLOG](https://kxxxgs.tistory.com/6)                       |
+
+
+# Checkbox
+
+| No.  |  NAME                                                             |  VIEW                                                             |  BLOG                                                      |
+|:----:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:----------------------------------------------------------:|
+|  1   |  [CHECKBOX1](https://github.com/rudtn082/UI/tree/main/checkbox1)  |  [VIEW](https://rudtn082.github.io/UI/checkbox1/checkbox1.html)   | [BLOG](https://kxxxgs.tistory.com/15)                      |
