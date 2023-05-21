@@ -25,3 +25,4 @@
 | No.  |  NAME                                                             |  VIEW                                                             |  BLOG                                                      |
 |:----:|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:----------------------------------------------------------:|
 |  1   |  [CHECKBOX1](https://github.com/rudtn082/UI/tree/main/checkbox1)  |  [VIEW](https://rudtn082.github.io/UI/checkbox1/checkbox1.html)   | [BLOG](https://kxxxgs.tistory.com/15)                      |
+|  2   |  [CHECKBOX2](https://github.com/rudtn082/UI/tree/main/checkbox2)  |  [VIEW](https://rudtn082.github.io/UI/checkbox2/checkbox2.html)   | [BLOG](https://kxxxgs.tistory.com/31)                      |
